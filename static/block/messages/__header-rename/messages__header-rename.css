@@ -1,0 +1,11 @@
+.messages__header-rename{
+    
+    flex-direction: row;
+    /* border:1px solid red; */
+    width:100%;
+    display:flex;
+    display:none;
+}
+.messages__header_is-opened{
+    display:flex;
+}

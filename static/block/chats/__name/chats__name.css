@@ -1,0 +1,9 @@
+.chats__name {
+  margin: 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 13px;
+  color: #1e1e1e;
+}

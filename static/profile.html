@@ -1,0 +1,83 @@
+git<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Сергей Ступников">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Profile</title>
+    <link rel="stylesheet" href="profile.css" />
+</head>
+
+<body>
+
+    <div class="page">
+
+
+        <section class="return">
+            <button class="return__button"></button>
+        </section>
+
+
+        <section class="info">
+
+            <img class="info__avatar" src="images/no_avatar.jpg">
+            <h1 class="info__name">User__NAME</h1>
+
+
+            <!--info__card_is-opened  для открытия-->
+            <div class="info__card ">
+                <div class="info__container info__container_underline">
+                    <h2 class="info__subtitle">Почта</h2>
+                    <p class="info__value">sadasdsa@gamil.com</p>
+                </div>
+                <div class="info__container">
+                    <h2 class="info__subtitle">Логин</h2>
+                    <p class="info__value">Some_login</p>
+                </div>
+                <div class="info__link-container">
+                    <div class="info__container info__container_underline">
+                        <button class="info__button">Изменить данные</button>
+                    </div>
+                    
+                    <div class="info__container">
+                        <a class="info__link">Выйти</a>
+                    </div>
+                    
+                </div>
+            </div>
+
+
+            <!--info__card_is-opened  для открытия-->
+            <form class="info__card info__card_form info__card_is-opened ">
+                <div class="info__container info__container_underline">
+                    <h2 class="info__subtitle">Почта</h2>
+                    <input class="info__input" type="email" placeholder="some-email@gmail.com">
+                </div>
+                <div class="info__container info__container_underline">
+                    <h2 class="info__subtitle">Логин</h2>
+                    <input class="info__input" type="text" placeholder="some-login">
+                </div>
+                <div class="info__container info__container_underline">
+                    <h2 class="info__subtitle">Новый пароль</h2>
+                    <input class="info__input" type="password" placeholder="Введите">
+                </div>
+                <div class="info__container">
+                    <h2 class="info__subtitle">Новый пароль еще раз</h2>
+                    <input class="info__input" type="password "placeholder="Введите">
+                </div>
+                <button class="info__save-button" type="submit">Сохранить</button>
+            </form>
+
+
+        </section>
+
+       
+
+    </div>
+    <!-- <script src="<%= htmlWebpackPlugin.files.chunks.main.entry %>"></script> -->
+</body>
+
+</html>

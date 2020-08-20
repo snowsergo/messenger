@@ -1,0 +1,23 @@
+@import url(__avatar/info__avatar.css);
+@import url(__button/info__button.css);
+@import url(__card/info__card.css);
+@import url(__container/info__container.css);
+@import url(__input/info__input.css);
+@import url(__input/info__input.css);
+@import url(__link-container/info__link-container.css);
+@import url(__link/info__link.css);
+@import url(__name/info__name.css);
+@import url(__save-button/info__save-button.css);
+@import url(__subtitle/info__subtitle.css);
+@import url(__value/info__value.css);
+/* @import url(__);
+@import url(__); */
+
+
+.info{
+display: flex;;
+flex-direction: column;
+align-items: center;
+width:100%;
+/* background-color: wheat; */
+}

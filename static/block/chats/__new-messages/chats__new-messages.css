@@ -1,0 +1,12 @@
+.chats__new-messages{
+    width:20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #3369F3;
+    /* display: block; */
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* display: none; */
+}

@@ -1,0 +1,12 @@
+.messages__user{
+    margin:0;
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height, or 100% */
+
+
+color: #1E1E1E;
+}

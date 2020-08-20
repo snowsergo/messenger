@@ -1,0 +1,16 @@
+.form__subtitle{
+    margin:0;
+    padding:0;
+
+    margin-bottom: 3px;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 9px;
+/* identical to box height, or 100% */
+
+
+color: #999999;
+
+}

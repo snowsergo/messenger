@@ -1,0 +1,16 @@
+.messages__input-container{
+    /* border:1px solid red; */
+    border-top:1px solid #EAEAEA;
+    /* margin-top:11px; */
+    /* margin-bottom:11px; */
+    height:54px;
+    /* position:fixed;
+    bottom:0; */
+    /* padding-bottom: 11px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top:5px;
+    padding-bottom:5px;
+}

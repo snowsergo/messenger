@@ -1,0 +1,24 @@
+@import url(__avatar/chats__avatar.css);
+@import url(__count/chats__count.css);
+@import url(__list/chats__list.css);
+@import url(__name/chats__name.css);
+@import url(__new-messages/chats__new-messages.css);
+@import url(__profile/chats__profile.css);
+@import url(__search/chats__search.css);
+@import url(__text/chats__text.css);
+@import url(__time/chats__time.css);
+@import url(__user/chats__user.css);
+@import url(__link/chats__link.css);
+@import url(__profile-arrow/chats__profile-arrow.css);
+@import url(__header/chats__header.css);
+@import url(__main/chats__main.css);
+@import url(__info/chats__info.css);
+
+.chats{
+    background-color:rgb(252, 252, 252);
+    min-width: 310px;
+    /* height:100vh; */
+    overflow: hidden;
+    padding:0;
+
+}

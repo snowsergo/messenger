@@ -1,0 +1,12 @@
+.messages__header-regular{
+    flex-direction: row;
+    /* border-bottom: 1px solid #EAEAEA; */
+    align-items: center;
+    /* padding-bottom:10px; */
+    width:100%;
+    display:none;
+}
+
+.messages__header_is-opened{
+    display:flex;
+}

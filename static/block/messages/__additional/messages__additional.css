@@ -1,0 +1,12 @@
+.messages__additional{
+    background-image: url(../../../images/add.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color:transparent;
+    /* border:1px solid red; */
+    border:none;
+    width:32px;
+    height:32px;
+   
+}

@@ -1,0 +1,11 @@
+@import url(vendor/normalize.css);
+@import url(vendor/fonts.css);
+
+@import url(./block/form/form.css);
+
+/* .page{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: thistle;
+} */
