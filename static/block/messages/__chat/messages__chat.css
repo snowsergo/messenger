@@ -1,0 +1,5 @@
+.messages__chat{
+    /* border:1px solid green; */
+    height:100%;
+    overflow: hidden;
+}

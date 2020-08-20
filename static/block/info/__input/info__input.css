@@ -1,0 +1,14 @@
+.info__input{
+    margin:0;
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height, or 100% */
+
+text-align: right;
+
+color: #999999;
+border:none;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Сергей Ступников">
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Registration</title>
+  <link rel="stylesheet" href="registration.css" />
+</head>
+
+<body>
+
+  <div class="page">
+    <form class="form form__signin">
+        <h1 class="form__title">Регистрация</h1>
+        
+
+        <h2 class ="form__subtitle">Почта</h2>
+        <input class="form__input signin__input signin__email" type="email">
+        <p class ="form__error signin__error_email">Validation-message</p>
+
+        <h2 class ="form__subtitle">Логин</h2>
+        <input class="form__input signin__login" type="text">
+        <p class ="form__error signin__error signin__error_login">Validation-message</p>
+
+        <h2 class ="form__subtitle">Пароль</h2>
+        <input class="form__input signin__password" type="password">
+        <p class ="form__error signin__error signin__error_password">Validation-message</p>
+
+        <h2 class ="form__subtitle">Пароль еще раз</h2>
+        <input class="form__input signin__password" type="password">
+        <p class ="form__error signin__error signin__error_password">Validation-message</p>
+
+        <p class ="form__error form__error_total signin__error signin__error_total">Ошибка сервера</p>
+
+        <button class="form__button" type="submit">Зарегистрироваться</button>
+        <a class="form__link">Войти</a>
+    </form>
+
+  </div>
+  <!-- <script src="<%= htmlWebpackPlugin.files.chunks.main.entry %>"></script> -->
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+.messages__opponent-text {
+  margin: 0;
+  padding:0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* or 125% */
+
+  color: #1e1e1e;
+  /* border:1px solid red; */
+}

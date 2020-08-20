@@ -1,0 +1,19 @@
+.messages__header-rename-button {
+  margin-left: auto;
+  width: 92px;
+  height: 28px;
+
+  background: #3369f3;
+  border-radius: 40px;
+  border: none;
+  font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+color: #FFFFFF;
+}

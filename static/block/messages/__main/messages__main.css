@@ -1,0 +1,7 @@
+.messages__main{
+    margin-left:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* border:1px solid yellowgreen; */
+}

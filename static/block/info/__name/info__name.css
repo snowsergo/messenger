@@ -1,0 +1,14 @@
+.info__name{
+    margin:0;
+    margin-top: 20px;
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+color: #1E1E1E;
+}

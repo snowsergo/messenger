@@ -1,0 +1,11 @@
+.messages__header-rename-input{
+    width:100%;
+    margin-right:20px;
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+color: #1E1E1E;
+border:none;
+}

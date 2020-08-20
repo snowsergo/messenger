@@ -1,0 +1,21 @@
+.info__save-button{
+    margin-top:40px;
+    width: 280px;
+height: 37px;
+
+
+background: #3369F3;
+border-radius: 8px;
+border:none;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+color: #FFFFFF;
+align-self: center;
+}

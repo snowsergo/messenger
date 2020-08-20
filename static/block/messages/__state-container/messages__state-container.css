@@ -1,0 +1,8 @@
+.messages__state-container{
+    display:flex;
+    flex-direction: row;
+   margin-left: auto;
+    /* border:1px solid black; */
+    width: fit-content;
+    margin-top:2px;
+}

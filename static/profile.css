@@ -1,0 +1,11 @@
+@import url(vendor/normalize.css);
+@import url(vendor/fonts.css);
+
+@import url(block/return/return.css);
+@import url(block/info/info.css);
+
+.page{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}

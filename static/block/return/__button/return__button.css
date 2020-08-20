@@ -1,0 +1,8 @@
+.return__button{
+    background-image: url(../../../images/go_back.svg);
+    background-repeat: no-repeat;
+    width:28px;
+    height:28px;
+    border:none;
+    background-color: transparent;
+}

@@ -1,0 +1,16 @@
+.messages__time{
+    margin:0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 9px;
+    /* identical to box height, or 100% */
+    
+    text-align: right;
+    
+    color: #999999;
+    /* border:1px solid red; */
+    width:fit-content;
+    margin-left:auto;
+}

@@ -1,0 +1,20 @@
+.popup__button {
+  border: none;
+  background-color: transparent;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+
+  color: #1e1e1e;
+  height:40px;
+  text-align: left;
+  padding-left: 40px;
+
+  background-size: 22px;
+  background-repeat: no-repeat;
+  background-position: left;
+  /* border:1px solid red; */
+}

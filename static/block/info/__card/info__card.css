@@ -1,0 +1,17 @@
+.info__card{
+display:none;
+/* border:1px solid blueviolet; */
+width:510px;
+margin-top:100px;
+}
+
+
+
+.info__card_form{
+
+}
+
+.info__card_is-opened{
+display:flex;
+flex-direction: column;
+}

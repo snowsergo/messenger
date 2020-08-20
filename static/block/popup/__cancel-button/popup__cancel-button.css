@@ -1,0 +1,19 @@
+.popup__cancel-button{
+    width: 155px;
+    height: 37px;
+    background: #E2E2E2;;
+    border-radius: 8px;
+    border:none;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+    /* identical to box height, or 100% */
+    
+    text-align: center;
+
+    color: #1E1E1E;
+    
+}

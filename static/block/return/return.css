@@ -1,0 +1,11 @@
+@import url(__button/return__button.css);
+
+.return{
+width:64px;
+background: #FBFBFB;
+border:1px solid #EAEAEA;
+display:flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+}

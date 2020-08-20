@@ -1,0 +1,41 @@
+@import url(__empty/messages__empty.css);
+@import url(__input/messages__input.css);
+@import url(__main/messages__main.css);
+@import url(__menu/messages__menu.css);
+@import url(__online-time/messages__online-time.css);
+@import url(__opponent-container/messages__opponent-container.css);
+@import url(__opponent-text/messages__opponent-text.css);
+@import url(__sent-button.css/messages__sent-button.css);
+@import url(__state/messages__state.css);
+@import url(__time/messages__time.css);
+@import url(__user/messages__user.css);
+@import url(__yours-container/messages__yours-container.css);
+@import url(__yours-text/messages__yours-text.css);
+@import url(__additional/messages__additional.css);
+@import url(__avatar/messages__avatar.css);
+@import url(__chat/messages__chat.css);
+@import url(__date/messages__date.css);
+@import url(__header/messages__header.css);
+@import url(__input-container/messages__input-container.css);
+@import url(__state-container/messages__state-container.css);
+@import url(__input-form/messages__input-form.css);
+@import url(__header-regular/messages__header-regular.css); 
+@import url(__header-rename/messages__header-rename.css); 
+@import url(__header-rename-input/messages__header-rename-input.css); 
+@import url(__header-rename-button/messages__header-rename-button.css); 
+.messages{
+    background-color:white;
+    width:100%;
+    height:100vh;
+    padding:10px 20px 0px 20px;
+    /* margin-top: 10px; */
+    border-left:1px solid #EAEAEA;
+    /* display: flex; */
+    flex-direction: column;
+    position: relative;
+    display:none;
+}
+
+.messages_is-opened{
+    display:flex;
+}

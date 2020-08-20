@@ -1,0 +1,42 @@
+@import url(__add-file-button/popup__add-file-button.css);
+@import url(__add-location-button/popup__add-location-button.css);
+@import url(__add-media-button/popup__add-media-button.css);
+@import url(__add/popup__add.css);
+@import url(__remove-button/popup__remove-button.css);
+@import url(__rename-button/popup__rename-button.css);
+@import url(__user-menu/popup__user-menu.css);
+@import url(__button/popup__button.css);
+
+@import url(__remove-chat/popup__remove-chat.css);
+@import url(__title/popup__title.css);
+@import url(__remove-chat-button/popup__remove-chat-button.css);
+@import url(__cancel-button/popup__cancel-button.css);
+@import url(__content-remove/popup__content-remove.css);
+
+
+.popup{
+    /* width:162px; */
+    background-color: white;
+    position:absolute;
+    z-index:1;
+    /* border:1px solid red; */
+    border-radius:12px;
+    /* display: flex; */
+    flex-direction: column;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.20);
+display:none;
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+
+
+color: #1E1E1E;
+padding:6px 14px;
+}
+
+.popup_is-opened{
+    display: flex;
+}

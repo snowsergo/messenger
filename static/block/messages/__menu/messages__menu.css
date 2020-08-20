@@ -1,0 +1,17 @@
+.messages__menu{
+    margin-left:auto;
+    background-image: url(../../../images/messages-menu.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color:transparent;
+    /* border:1px solid red; */
+    margin-right: 11px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    border:none;
+ 
+    /* border: none;
+    background-color: plum; */
+}
